@@ -1,0 +1,16 @@
+Rep for RTU  Algoritmi un programmēšanas metodes (first task)
+
+Current tech stack:
+JDK 1.8
+JUnit 4.12
+gradle 5.2.1
+
+How to run application:
+./gradlew run
+
+How to run tests:
+./gradlew test
+
+Note:
+(*) Win users use gradlew.bat
+(*) Push to branches and make pull request
