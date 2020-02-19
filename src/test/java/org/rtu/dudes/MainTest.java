@@ -1,14 +1,14 @@
 package org.rtu.dudes;
 
-import org.junit.Test;
-
 import static org.junit.Assert.*;
+
+import org.junit.Test;
 
 public class MainTest {
 
-    @Test
-    public void works() {
-        Main instance = new Main();
-        assertEquals(instance.works(), "works");
-    }
+  @Test
+  public void works() {
+    Main instance = new Main();
+    assertEquals(instance.works(), "works");
+  }
 }
